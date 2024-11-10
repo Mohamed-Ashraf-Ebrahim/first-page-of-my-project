@@ -1,0 +1,262 @@
+.web-title {
+    position: relative;
+    cursor: pointer;
+   
+    
+}
+.get{
+    width:130px;
+    font-size:larger;
+    font-style:oblique;
+    position: absolute;
+    top: 19.25%;
+    left: 45.31%;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.web-title-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+.create-an-account {
+    position: absolute;
+    top: 20px;
+    left: calc(50% - 132px);
+    font-size: 28px;
+    font-weight: 300;
+    color: #000;
+    text-align: center;
+}
+
+
+.frame-parent {
+    position: absolute;
+    top: 92px;
+    left: calc(50% - 264px);
+    border-radius: 5px;
+    background-color: #db1bbe;
+    width: 529px;
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 130px;
+    color: #fff;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.frame-child {
+    width: 261px;
+    position: relative;
+    border-top: 1px solid #d9dde4;
+    box-sizing: border-box;
+    height: 1px;
+}
+.frame-item {
+    width: 251.5px;
+    position: relative;
+    height: 1px;
+}
+.line-parent {
+    position: absolute;
+    top: 161px;
+    left: calc(50% - 275px);
+    width: 550px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+    color: #908ea5;
+    font-family: Inter;
+}
+
+
+
+
+.create-account-wrapper {
+    position: absolute;
+    top: 659px;
+    left: calc(50% - 275px);
+    border-radius: 5px;
+    background-color:  #db1bbe;
+    width: 550px;
+    height: 49px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.terms-and-conditions {
+    color:  #db1bbe;
+    cursor: pointer;
+}
+.by-signing-up-container {
+    position: absolute;
+    top: 723px;
+    left: calc(50% - 187px);
+    font-size: 14px;
+    color: #000;
+}
+.log-in {
+    font-weight: 500;
+    color:  #db1bbe;
+    cursor: pointer;
+}
+.already-have-an-container {
+    position: absolute;
+    top: 785px;
+    left: calc(50% - 131px);
+    font-size: 16px;
+    color: #000;
+}
+.create-an-account-parent {
+    position: absolute;
+    top: calc(50% - 417px);
+    left: 751px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 640px;
+    height: 837px;
+    overflow: hidden;
+    font-size: 20px;
+    color: #241433;
+    border-radius: 44px;
+}
+
+
+.vector-container {
+    width: 23px;
+    border-radius: 11.5px;
+    background-color: #fff;
+    height: 23px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 7px 6px;
+    box-sizing: border-box;
+}
+.frame-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 10px 10px 0px;
+    gap: 10px;
+}
+.frame-parent3 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 10px 10px 0px;
+    gap: 10px;
+}
+.frame-group {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 28px;
+}
+
+.trusted-by-over-45000-compani-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 10px 10px 0px;
+    font-size: 36px;
+}
+
+.find-the-best-jobs-in-egypt-parent {
+    position: absolute;
+    top: 185px;
+    left: 50px;
+    width: 664px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+    font-size: 38px;
+}
+.create-account {
+    width: 100%;
+    position: relative;
+    height: 1024px;
+    overflow: hidden;
+    background-image: url('WhatsApp\ Image\ 2024-10-13\ at\ 21.58.39_8b4ae2ee.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: left;
+    font-size: 41.33px;
+    color: #fff;
+    font-family: Poppins;
+}
+.iputs{
+    position: relative;
+    top: 20%;
+    left: 5%;
+    justify-content: space-between;
+    
+    width: 80%;
+    height: 60%;
+    justify-content: center;
+   
+    
+}
+.yourname{
+    justify-content: center;
+    justify-content: space-between;
+    width: 220px;
+  
+}
+.yournamelast{
+    
+    justify-content: center;
+    justify-content: space-between;
+    width: 220px;
+    position: absolute;
+    top: -23px;
+    right: 0px;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.email{
+   
+}
+.password{
+  
+}
+.what-are{
+   
+}
+input{
+    height: 35px;
+    width: 90%;
+    margin-left: 5px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+p{
+    color: black;
+    font-size:20px;
+    position: relative;
+    
+}
